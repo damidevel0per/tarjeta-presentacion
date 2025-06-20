@@ -27,6 +27,7 @@ body{
 
 .tarjeta h1{
     color: #fa4b00;
+    margin-top: 20px;
     margin-bottom: 10px;
 }
 
@@ -37,6 +38,6 @@ body{
 
 .tarjeta p{
     font-size: medium;
-    margin-top: 5px;
+    margin-top: 10px;
     color: #fafafa;
 }
