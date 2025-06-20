@@ -2,10 +2,16 @@
     margin: 0;
     padding: 0;
 }
+
+/*Definiendo color de fondo de la pagina y fuente*/
+
 body{
     background-color: #cdbdae;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/*Diseño de la tarjeta*/
+
 .tarjeta{
     background-color: #1f1f1f;
     width: 400px;
@@ -19,6 +25,8 @@ body{
     border: #fa4b00 solid 2px;
 }
 
+/*Ajustes a la imagen*/
+
 .tarjeta img{
     width: 300px;
     border-radius: 200px;
@@ -28,6 +36,8 @@ body{
     border: #fa4b00 solid;
     
 }
+
+/*Ajustes a el contenido textual de la tarjeta*/
 
 .tarjeta h1{
     color: #fa4b00;
