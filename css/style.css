@@ -9,21 +9,34 @@ body{
 .tarjeta{
     background-color: #1f1f1f;
     width: 400px;
-    height: 700px;
+    height: 600px;
     border-radius: 10px;
     margin-top: 30px;
     margin-left: 30px;
     padding: 40px;
 }
 
-.tarjeta h3{
-    color: #fa4b00;
+.tarjeta img{
+    width: 300px;
+    border-radius: 200px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-top: 35px;
+    border: #fa4b00 solid;
 }
 
-.tarjeta h3{
+.tarjeta h1{
     color: #fa4b00;
+    margin-bottom: 10px;
+}
+
+.tarjeta h2{
+    color: #cdbdae;
+    font-size: medium;
 }
 
 .tarjeta p{
+    font-size: medium;
+    margin-top: 5px;
     color: #fafafa;
 }
