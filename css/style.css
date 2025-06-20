@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #cdbdae;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tarjeta{
+    background-color: #1f1f1f;
+    width: 400px;
+    height: 700px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 40px;
+}
+
+.tarjeta h3{
+    color: #fa4b00;
+}
+
+.tarjeta h3{
+    color: #fa4b00;
+}
+
+.tarjeta p{
+    color: #fafafa;
+}
